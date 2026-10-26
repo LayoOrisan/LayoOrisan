@@ -4,7 +4,7 @@ Hi 👋 My name is Layo Orisan
 Cloud and DevOps Engineer
 -------------------------
 
-Skilled in container orchestration using Kubernetes and Docker, Identity Access Management and MFA (multi-factor Authentication), Development of Cloud Infrastructures with leading cloud service providers AWS, Microsoft Azure and Google Cloud
+Skilled in container orchestration using Kubernetes and Docker, Identity Access Management and MFA (multi-factor Authentication). Development, management and monitoring of Cloud Infrastructures deployed on leading cloud service providers AWS, Microsoft Azure and Google Cloud
 
 * 🌍  I'm based in Nigeria
 * ✉️  You can contact me at [oniorisanlayo@gmail.com](mailto:oniorisanlayo@gmail.com)
